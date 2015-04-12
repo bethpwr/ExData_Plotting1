@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# ExploratoryDA1
-<<<<<<< HEAD
+
 Coursera - Exploratory Data Analysis
 =======
 ## Coursera - Exploratory Data Analysis Course Project 1
@@ -10,7 +8,9 @@ This is my repository for the Exploratory Data Analysis Course Project 1. Below 
 * Download Dataset and R scripts (plot1.R to plot4.R) to local repository
 * Run the script (rename working directory to yours)
 * Voila~ .png files should appear in your working directory
->>>>>>> origin/master
+
+
+
 =======
 ## Introduction
 
